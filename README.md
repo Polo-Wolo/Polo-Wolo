@@ -1,4 +1,5 @@
-### Hi there, I'm Paul 👋
+### Hi there, I'm Paul <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 A passionate engineering student
 
 🔭 I’m currently working on Share Your Project with [Killian Mahé](https://github.com/killian-mahe)
