@@ -10,4 +10,4 @@ A passionate engineering student
 
 azure arduino bootstrap c cplusplus css3 figma firebase git html5 linux mysql nodejs python jupyter sass tailwind typescript vuejs webpack
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Polo-Wolo&theme=light" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polo-Wolo)](https://github.com/Polo-Wolo/github-readme-stats)
