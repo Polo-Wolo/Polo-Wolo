@@ -10,4 +10,4 @@ A passionate engineering student
 
 azure arduino bootstrap c cplusplus css3 figma firebase git html5 linux mysql nodejs python jupyter sass tailwind typescript vuejs webpack
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Polo-Wolo&theme=light" />
