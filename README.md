@@ -12,4 +12,4 @@ azure arduino bootstrap c cplusplus css3 figma firebase git html5 linux mysql no
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polo-Wolo&layout=compact)](https://github.com/Polo-Wolo/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polo-Wolo&count_private=true)](https://github.com/Polo-Wolo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polo-Wolo&count_private=true&show_icons=true)](https://github.com/Polo-Wolo/github-readme-stats)
