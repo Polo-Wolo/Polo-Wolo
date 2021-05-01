@@ -3,7 +3,6 @@
 ![github-fill](https://user-images.githubusercontent.com/62262824/116789546-ab028580-aaaf-11eb-8565-2859df787845.png)
 ![gitlab-fill](https://user-images.githubusercontent.com/62262824/116789547-ab028580-aaaf-11eb-8614-f787a5805a45.png)
 ![linkedin-box-fill](https://user-images.githubusercontent.com/62262824/116789550-ab9b1c00-aaaf-11eb-83a8-bf1a6493ccb8.png)
-![linkedin-fill](https://user-images.githubusercontent.com/62262824/116789551-ab9b1c00-aaaf-11eb-9263-ee018dfaacd5.png)
 ![ubuntu-fill](https://user-images.githubusercontent.com/62262824/116789552-ac33b280-aaaf-11eb-8b93-4b5c155e596e.png)
 ![vuejs-fill](https://user-images.githubusercontent.com/62262824/116789553-accc4900-aaaf-11eb-801a-bf55e71bb353.png)
 ![windows-fill](https://user-images.githubusercontent.com/62262824/116789555-ad64df80-aaaf-11eb-9817-7c3ba0da5054.png)
@@ -24,3 +23,10 @@ azure arduino bootstrap c cplusplus css3 figma firebase git html5 linux mysql no
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polo-Wolo&layout=compact)](https://github.com/Polo-Wolo/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polo-Wolo&count_private=true&show_icons=true)](https://github.com/Polo-Wolo/github-readme-stats)
+
+
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-python-plain"></i>
