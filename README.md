@@ -5,8 +5,6 @@ A passionate engineering student
 
 👨‍💻 All of my projects are available at https://github.com/Polo-Wolo
 
-💬 Ask me about Laravel, PHP, Python, C, C++, C#
-
 📫 How to reach me paul.wzk.pro@gmail.com
 
 azure arduino bootstrap c cplusplus css3 figma firebase git html5 linux mysql nodejs python jupyter sass tailwind typescript vuejs webpack
