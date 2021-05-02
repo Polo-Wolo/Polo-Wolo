@@ -2,7 +2,7 @@
 
 A passionate engineering student
 
-🔭 I’m currently working on Share Your Project with [Killian Mahé](https://github.com/killian-mahe)
+🔭 I’m currently working on [Share Your Project](https://www.shareyourproject.fr/) with [Killian Mahé](https://github.com/killian-mahe)
 
 👨‍💻 All of my projects are available at https://github.com/Polo-Wolo
 
