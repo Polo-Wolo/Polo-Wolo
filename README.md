@@ -7,7 +7,7 @@ A passionate engineering student
 👨‍💻 All of my projects are available at https://github.com/Polo-Wolo
 
 📫 How to reach me paul.wzk.pro@gmail.com
-
+<!--
 ![css3-fill](https://user-images.githubusercontent.com/62262824/116790229-77c1f580-aab3-11eb-9b4f-5629ce0fe95b.png)
 ![discord-fill](https://user-images.githubusercontent.com/62262824/116790230-785a8c00-aab3-11eb-95d9-ee8766d5bd90.png)
 ![github-fill](https://user-images.githubusercontent.com/62262824/116790231-785a8c00-aab3-11eb-9052-827d425c1261.png)
@@ -33,7 +33,7 @@ A passionate engineering student
 ![ubuntu-fill](https://user-images.githubusercontent.com/62262824/116790259-801a3080-aab3-11eb-865a-02740326f357.png)
 ![vuejs-fill](https://user-images.githubusercontent.com/62262824/116790261-80b2c700-aab3-11eb-887e-29c29757965f.png)
 ![windows-fill](https://user-images.githubusercontent.com/62262824/116790262-814b5d80-aab3-11eb-8ad3-8ca69e6fa6c5.png)
-
+-->
 Find on https://icons8.com/
 
 <i class="ri-discord-line"></i>
